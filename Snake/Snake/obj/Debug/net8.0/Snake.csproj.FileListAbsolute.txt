@@ -1,0 +1,14 @@
+/Users/anton/RiderProjects/Snake/Snake/bin/Debug/net8.0/Snake
+/Users/anton/RiderProjects/Snake/Snake/bin/Debug/net8.0/Snake.deps.json
+/Users/anton/RiderProjects/Snake/Snake/bin/Debug/net8.0/Snake.runtimeconfig.json
+/Users/anton/RiderProjects/Snake/Snake/bin/Debug/net8.0/Snake.dll
+/Users/anton/RiderProjects/Snake/Snake/bin/Debug/net8.0/Snake.pdb
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.AssemblyInfoInputs.cache
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.AssemblyInfo.cs
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.csproj.CoreCompileInputs.cache
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.dll
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/refint/Snake.dll
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.pdb
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/Snake.genruntimeconfig.cache
+/Users/anton/RiderProjects/Snake/Snake/obj/Debug/net8.0/ref/Snake.dll
